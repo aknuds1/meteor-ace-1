@@ -96,12 +96,7 @@ Package.on_use(function (api) {
                 'lib/ace/src/theme-tomorrow_night_eighties.js',
                 'lib/ace/src/theme-twilight.js',
 		'lib/ace/src/theme-vibrant_ink.js',
-                'lib/ace/src/theme-xcode.js',
-	        'lib/ace/src/worker-coffee.js',
-		'lib/ace/src/worker-css.js',
-	        'lib/ace/src/worker-javascript.js',
-		'lib/ace/src/worker-json.js',
-	        'lib/ace/src/worker-xquery.js'
+                'lib/ace/src/theme-xcode.js'
 		],'client'
 	        );
 	//		api.add_files('common.js', 'client');
